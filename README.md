@@ -2,6 +2,8 @@
 "A modern and responsive pricing cards UI built with pure HTML and CSS. Features smooth hover effects, unique card colors (Basic, Standard, Pro), and a clean minimal design."
 
 🔗 **Live Demo:** [View Here](https://youcef303.github.io/Pricing-cards/)
+![Preview](https://youcef303.github.io/Pricing-cards/screenshot.png)
+
 
 ## Features
 - Responsive layout (works on desktop, tablet, and mobile).  
